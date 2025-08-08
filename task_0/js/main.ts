@@ -51,7 +51,7 @@ interface Student {
     });
     
     table.appendChild(tbody);
-    document.body.appendChild(table);
+    // document.body.appendChild(table);
   }
   
   // Call the function to render the table
